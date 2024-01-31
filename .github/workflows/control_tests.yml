@@ -25,5 +25,4 @@ jobs:
 
       - name: Run flake8
         run: |
-          flake8 || echo "Flake8 failed with exit code $?"
-
+          flake8 
