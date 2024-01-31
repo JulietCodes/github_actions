@@ -20,4 +20,3 @@ def test_calc_coucou():
     # Function test if the output returns 'hello'
     output = 'hello'
     assert output == 'hello'
-
